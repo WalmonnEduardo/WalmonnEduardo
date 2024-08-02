@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Walmonn Eduardo
 Sou estudante do IFPR-Campus-Foz-do-Iguaçu. Faço curso técnico em desenvolvimento de sistemas integrado com ensino médio.
+Gosto de desenvolver automações com objetivo de facilitar a execução de tarefas repetitivas.
+Espero contribuir com a comunidade de desenvolvedores.
 
 <div>
 <a href="https://github.com/WalmonnEduardo">
