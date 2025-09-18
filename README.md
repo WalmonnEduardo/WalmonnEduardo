@@ -6,5 +6,6 @@ Espero contribuir com a comunidade de desenvolvedores.
 <div>
 <a href="https://github.com/WalmonnEduardo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmonnEduardo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WalmonnEduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WalmonnEduardo&show_icons=true&theme=dracula&count_private=true" height="180em"/>
+
 </div>
