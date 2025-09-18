@@ -23,7 +23,7 @@ Espero **contribuir com a comunidade de desenvolvedores**.
 
 ## 📊 Estatísticas de GitHub
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=WalmonnEduardo&theme=dracula)](https://github.com/WalmonnEduardo)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WalmonnEduardo&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WalmonnEduardo&theme=dracula)](https://github.com/WalmonnEduardo)  
 
