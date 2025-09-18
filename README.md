@@ -23,9 +23,9 @@ Espero **contribuir com a comunidade de desenvolvedores**.
 
 ## 📊 Estatísticas de GitHub
 
-[![Walmonn Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalmonnEduardo&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs)](https://github.com/WalmonnEduardo)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=WalmonnEduardo&theme=dracula)](https://github.com/WalmonnEduardo)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalmonnEduardo&layout=compact&langs_count=10&theme=dracula)](https://github.com/WalmonnEduardo)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WalmonnEduardo&theme=dracula)](https://github.com/WalmonnEduardo)  
 
 ---
 
