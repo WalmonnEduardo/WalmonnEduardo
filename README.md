@@ -6,4 +6,4 @@ Espero **contribuir com a comunidade de desenvolvedores**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalmonnEduardo&layout=compact&langs_count=7&theme=dracula)](https://github.com/WalmonnEduardo)
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=black)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=black)
