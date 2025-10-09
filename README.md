@@ -14,7 +14,10 @@ Espero **contribuir com a comunidade de desenvolvedores**.
 
 ## 📊 Estatísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WalmonnEduardo&theme=dracula)](https://github.com/WalmonnEduardo)  
+<div>
+<a href="https://github.com/WalmonnEduardo">
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmonnEduardo&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=WalmonnEduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
