@@ -12,15 +12,6 @@ Espero **contribuir com a comunidade de desenvolvedores**.
 
 ---
 
-## 📊 Estatísticas de GitHub
-
-<div>
-<a href="https://github.com/WalmonnEduardo">
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmonnEduardo&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=WalmonnEduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## ✨ Sobre mim
 
 - 🔹 Apaixonado por automações e eficiência  
